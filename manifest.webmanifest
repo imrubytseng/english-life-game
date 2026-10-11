@@ -1,0 +1,16 @@
+{
+  "name": "Talk Talk 生活英語會話",
+  "short_name": "Talk Talk",
+  "description": "有聲音的生活英語會話練習",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#e6f0ff",
+  "theme_color": "#2f4bff",
+  "lang": "zh-Hant",
+  "icons": [
+    {"src": "icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any"},
+    {"src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any"}
+  ]
+}
